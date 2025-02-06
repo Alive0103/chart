@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.11">
   <diagram name="第 1 页" id="D0PfmcyOCRA9JiAwxKCm">
-    <mxGraphModel dx="523" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1666" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -167,7 +167,7 @@
           <mxGeometry x="20" y="730" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="x7l14iwA549RfiOkNvGw-46" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="226.25" y="710" width="133.75" height="165" as="geometry" />
+          <mxGeometry x="226.25" y="710" width="140.63" height="190" as="geometry" />
         </mxCell>
         <mxCell id="x7l14iwA549RfiOkNvGw-47" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="x7l14iwA549RfiOkNvGw-46">
           <mxGeometry x="1.25" width="120" height="120" as="geometry" />
@@ -181,17 +181,20 @@
         <mxCell id="x7l14iwA549RfiOkNvGw-50" value="审批任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="x7l14iwA549RfiOkNvGw-46">
           <mxGeometry x="26.25" y="67.5" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="x7l14iwA549RfiOkNvGw-62" value="工时信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="x7l14iwA549RfiOkNvGw-46">
-          <mxGeometry x="63.75" y="130" width="70" height="30" as="geometry" />
+        <mxCell id="x7l14iwA549RfiOkNvGw-62" value="工作流信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="x7l14iwA549RfiOkNvGw-46">
+          <mxGeometry x="58.75" y="130" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="x7l14iwA549RfiOkNvGw-54" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="220" y="870" width="135" height="30" as="geometry" />
+        <mxCell id="x7l14iwA549RfiOkNvGw-54" value="" style="group" vertex="1" connectable="0" parent="x7l14iwA549RfiOkNvGw-46">
+          <mxGeometry x="-6.8700000000000045" y="160" width="147.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x7l14iwA549RfiOkNvGw-55" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;rotation=-90;" vertex="1" parent="x7l14iwA549RfiOkNvGw-54">
           <mxGeometry x="52.5" y="-52.5" width="30" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="x7l14iwA549RfiOkNvGw-56" value="TimeCard" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="x7l14iwA549RfiOkNvGw-54">
-          <mxGeometry x="27.5" width="80" height="30" as="geometry" />
+        <mxCell id="x7l14iwA549RfiOkNvGw-56" value="workflow_process_record" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="x7l14iwA549RfiOkNvGw-54">
+          <mxGeometry x="-12.5" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x7l14iwA549RfiOkNvGw-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.51;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="x7l14iwA549RfiOkNvGw-46" source="x7l14iwA549RfiOkNvGw-47" target="x7l14iwA549RfiOkNvGw-56">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x7l14iwA549RfiOkNvGw-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x7l14iwA549RfiOkNvGw-56">
           <mxGeometry relative="1" as="geometry">
@@ -201,9 +204,6 @@
               <mxPoint x="288" y="839" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="x7l14iwA549RfiOkNvGw-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.51;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="x7l14iwA549RfiOkNvGw-47" target="x7l14iwA549RfiOkNvGw-56">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
