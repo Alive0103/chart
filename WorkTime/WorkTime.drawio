@@ -2099,6 +2099,18 @@
             <mxPoint x="1347" y="2480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="LsslCwd6HiyHOR-f4r_0-163" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;部门管理&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="930.99" y="2055" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LsslCwd6HiyHOR-f4r_0-164" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;项目管理&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="930.99" y="1865" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LsslCwd6HiyHOR-f4r_0-165" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;员工管理&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="937.99" y="2250" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LsslCwd6HiyHOR-f4r_0-166" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;消息推送服务&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="922.99" y="2446" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
