@@ -2075,6 +2075,30 @@
         <mxCell id="LsslCwd6HiyHOR-f4r_0-152" value="角色信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-499.01" y="2523" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="LsslCwd6HiyHOR-f4r_0-159" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="1uyeWz8TD2SgSE77w7xu-27" target="1uyeWz8TD2SgSE77w7xu-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="2110" as="sourcePoint" />
+            <mxPoint x="550" y="2060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LsslCwd6HiyHOR-f4r_0-160" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="542" y="2090" as="sourcePoint" />
+            <mxPoint x="1341" y="2090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LsslCwd6HiyHOR-f4r_0-161" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="1uyeWz8TD2SgSE77w7xu-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="544.01" y="2280" as="sourcePoint" />
+            <mxPoint x="1343.01" y="2280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LsslCwd6HiyHOR-f4r_0-162" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="1uyeWz8TD2SgSE77w7xu-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="545.01" y="2483" as="sourcePoint" />
+            <mxPoint x="1347" y="2480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
